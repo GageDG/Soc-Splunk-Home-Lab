@@ -36,7 +36,7 @@ The Splunk web interface runs on port 8000.
 
 Access URL:
 
-http://<server-ip>:8000
+http://192.168.184.128:8000/
 
 ---
 
