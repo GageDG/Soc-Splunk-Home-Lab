@@ -14,7 +14,7 @@ Role: Security Information and Event Management (SIEM)
 
 CPU: 2 cores  
 RAM: 4 GB  
-Disk: 64 GB  
+Disk: 40 GB  
 
 Network: Internal NAT network
 
