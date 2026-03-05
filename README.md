@@ -1,4 +1,4 @@
-# Soc-Splunk-Home-Lab# SOC Splunk Home Lab
+# Soc-Splunk-Home-Lab#
 
 This project documents the creation of a security operations center (SOC) home lab designed to simulate real-world security monitoring and threat detection.
 
