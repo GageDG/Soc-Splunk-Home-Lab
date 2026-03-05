@@ -50,6 +50,8 @@ sudo /opt/splunk/bin/splunk enable boot-start -user splunk
 
 This ensures the SIEM service remains operational after system reboots.
 
+Average expected Splunk reboot time is <**time's**>
+
 ---
 
 ## Purpose in the Lab
@@ -61,4 +63,4 @@ The Splunk server performs the following functions:
 • Threat detection  
 • Incident investigation
 
-Logs will be forwarded from Windows endpoints using the Splunk Universal Forwarder.
+Logs will be forwarded from Kali Linux and Window endpoints using the Splunk Universal Forwarder.
