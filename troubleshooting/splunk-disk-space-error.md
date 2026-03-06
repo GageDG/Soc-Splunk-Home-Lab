@@ -18,8 +18,12 @@ The logical volume wasthen expanded to use the remaining free space in the volum
 
 Commands used:
 
-sudo vgdisplay
-sudo lvextend -l +100%FREE /dev/ubuntu-vg/ubuntu-lv
-sudo resize2fs /dev/ubuntu-vg/ubuntu-lv
+```sudo vgdisplay```
+
+```sudo lvextend -l +100%FREE /dev/ubuntu-vg/ubuntu-lv```
+
+```sudo resize2fs /dev/ubuntu-vg/ubuntu-lv```
 
 After expanding the filesystem, sufficient disk space was available and Splunk resumed executing searches normally.
+
+<img width="1916" height="375" alt="image" src="https://github.com/user-attachments/assets/335782db-caf7-420b-b180-ea0f99e85f8b" />
