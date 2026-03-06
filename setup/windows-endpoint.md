@@ -50,3 +50,7 @@ The endpoint will generate logs from:
 • PowerShell activity
 
 These logs will be ingested by Splunk for threat detection and analysis.
+
+## VMware Tools Installation
+
+VMware Tools was installed on the Windows endpoint to improve virtual machine performance and enable features such as improved networking, clipboard sharing, and optimized drivers.
