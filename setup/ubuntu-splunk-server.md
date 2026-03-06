@@ -50,7 +50,7 @@ sudo /opt/splunk/bin/splunk enable boot-start -user splunk
 
 This ensures the SIEM service remains operational after system reboots.
 
-Average expected Splunk reboot time is <**time's**>
+Average expected Splunk system reboot time is <**5:45**>
 
 ---
 
