@@ -13,3 +13,12 @@ The goal of this project is to develop practical SOC analyst skills including:
 - Understanding attacker techniques
 
 This lab environment simulates a small enterprise network and demonstrates how a SOC analyst detects malicious activity.
+
+## Skills Demonstrated
+
+- SIEM deployment and configuration
+- Windows log ingestion
+- Endpoint monitoring
+- Splunk log analysis
+- Linux system administration
+- Security event investigation
